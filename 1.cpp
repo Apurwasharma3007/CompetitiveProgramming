@@ -5,5 +5,5 @@ int main(){
 	int a;
 	cin>>a;
 	cout<<"Hello "<<a<<endl;
-	
+	cout<<"World"<<endl;
 }
