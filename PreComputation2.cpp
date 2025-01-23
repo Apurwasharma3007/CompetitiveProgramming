@@ -1,4 +1,4 @@
-//Prefix Sum in 2D array
+Prefix Sum in 2D array
 #include <bits/stdc++.h>
 using namespace std;
 const int N = 1e3 + 10;
@@ -31,4 +31,3 @@ int main() {
 
     return 0;
 }
-
